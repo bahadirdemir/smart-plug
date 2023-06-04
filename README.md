@@ -1,4 +1,4 @@
-# Smart Plug
+# Smart Plug Project - Akıllı Priz Projesi
 
 Malzemeler:
 •	Nodemcu V3 ESP8266-E12 Geliştirme kartı-CH340
