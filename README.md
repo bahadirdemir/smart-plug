@@ -1,2 +1,2 @@
-# smart-plug
+# Smart Plug
 Smart Plug
